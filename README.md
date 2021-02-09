@@ -1,4 +1,5 @@
 # electron-serialport
+
 An example of how to use serialport in an electron app
 
 **Clone and run for a quick way to see Electron and Serialport in action.**
@@ -20,10 +21,6 @@ You can learn more about each of these components within the [Quick Start Guide]
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
-git clone https://github.com/serialport/electron-serialport.git
-# Go into the repository
-cd electron-serialport
 # Install dependencies
 npm install
 # Run the app
